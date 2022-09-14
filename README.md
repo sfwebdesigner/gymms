@@ -1,1 +1,6 @@
-# gym management system for copelandsfitness.us
+# gym management system
+# copelandsfitness.us
+## branches
+### dev
+### staging
+### live
