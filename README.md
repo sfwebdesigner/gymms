@@ -1,6 +1,5 @@
 # gym management system
-# copelandsfitness.us
 ## branches
-### dev
-### staging
-### live
+### dev - for developing new features
+### staging - copy of live for fixing problems on live site
+### live - live site used by staff
